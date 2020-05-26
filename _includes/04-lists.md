@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+I'd like to say:
+* I love Cuba :surfer: :palm_tree:
+* I live in Naples :volcano:
+* ...
